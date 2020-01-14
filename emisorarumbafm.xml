@@ -1,0 +1,5 @@
+<channel>
+<station name="Rumba FM"
+image="https://kohanlab.github.io/radios-apps-/internarumba.jpg"
+link="http://srv2.plugstreaming.com:8401/stream;"/>
+</channel>
