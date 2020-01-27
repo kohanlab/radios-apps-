@@ -1,5 +1,5 @@
 <channel>
 <station name="Europa FM"
-image="https://kohanlab.github.io/radios-apps-/internaeuropa.jpg"
-link="https://icecast-streaming.nice264.com/europafmback"/>
+image="https://kohanlab.github.io/radios-apps-/internaeuropafm.jpg"
+link="http://astreaming.europafm.ro:8000/europafm_mp3_64k"/>
 </channel>
