@@ -1,0 +1,5 @@
+<channel>
+<station name="Radio Activa"
+image="https://kohanlab.github.io/radios-apps-/internaactiva.jpg"
+link="http://streamserver.ml:7002/stream/1/"/>
+</channel>
