@@ -1,0 +1,5 @@
+<channel>
+<station name="Farra"
+image="https://kohanlab.github.io/radios-apps-/internafarra.jpg"
+link="https://rfs1.farra.com.py:9433/stream"/>
+</channel>
